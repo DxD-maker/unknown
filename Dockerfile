@@ -1,4 +1,4 @@
-FROM anime-republic/mh:latest
+FROM anasty17/mltb:latest
 
 WORKDIR /maruf
 
