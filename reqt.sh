@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env paste here config env url
-wget -O token.pickle 
+wget -O config.env https://github.com/DxD-maker/Torrentbot-files/raw/main/accounts.zip
+wget -O token.pickle https://github.com/DxD-maker/Torrentbot-files/raw/main/token.pickle
 rin
 bash sta*
 
