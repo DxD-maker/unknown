@@ -48,13 +48,13 @@ apt install aria2 -y || sudo apt install aria2 -y
 apt install wget -y || sudo apt install wget -y
 apt install apt-utils -y || sudo apt install apt-utils -y
 rm -rf m*t*t
-git clone https://github.com/anime-republic/MIRROR-HUNTER
+git clone https://github.com/anasty17/mirror-leech-telegram-bot
 cd m*t*t
 pwd
 pwd
 pwd
 pwd
-wget -O config.env https://gist.githubusercontent.com/DXDDEVIL/4b6333808a549b3ddb5b3bc12b9928ef/raw/config.env
+wget -O config.env https://gist.githubusercontent.com/DXDDEVIL/a25033ce8b4d3fd56d55a311aa9c3007/raw/config.env
 wget -O token.pickle https://github.com/DxD-maker/Torrentbot-files/raw/main/token.pickle
 bash sta*
 
