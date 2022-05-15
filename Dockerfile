@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM anime-republic/MIRROR-HUNTER:latest
 
 WORKDIR /maruf
 
