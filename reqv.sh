@@ -54,7 +54,7 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env https://gist.githubusercontent.com/DXDDEVIL/a25033ce8b4d3fd56d55a311aa9c3007/raw/config.env
+wget -O config.env https://gist.githubusercontent.com/DXDDEVIL/4b6333808a549b3ddb5b3bc12b9928ef/raw/config.env
 wget -O token.pickle https://github.com/DxD-maker/Torrentbot-files/raw/main/token.pickle
 rin
 bash start*
