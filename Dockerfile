@@ -1,4 +1,4 @@
-FROM anime-republic/MIRROR-HUNTER:latest
+FROM anime-republic/mh:latest
 
 WORKDIR /maruf
 
